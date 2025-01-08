@@ -2,7 +2,7 @@ import React from 'react'
 import styles from './ProjectsStyles.module.css'
 import skyrim from '../../assets/skyrim-img.jpg'
 import weather from '../../assets/weather-img.jpg'
-import tempcheck from '../../assets/tempcheck.jpg'
+import tempcheck from '../../assets/tempCheck.jpg'
 import anprImg from '../../assets/anpr-img.jpg'
 import ProjectCard from '../../common/ProjectCard'
 
