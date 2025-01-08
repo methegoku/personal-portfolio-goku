@@ -1,8 +1,12 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This portfolio Website is made using ReactJS with minimal, but beautiful stylings.
 
-Currently, two official plugins are available:
+Just download it as ZIP (or) clone it to your device and ren with visual Studio Code
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Open terminal in VS Code and type these codes..
+
+npm install
+npm run dev
+
+P.S. Make sure that yoy have NodeJS installed
