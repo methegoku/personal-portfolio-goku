@@ -59,6 +59,10 @@ input[type = 'submit']:active{
     transform: translateY(2px);
 }
 
+h1{
+    font-size: 40px;
+  }
+
 @media (width >= 800px) {
     textarea, input:not([type = 'submit']) {
       width: 600px;

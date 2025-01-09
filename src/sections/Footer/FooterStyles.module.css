@@ -3,7 +3,18 @@
     text-align: center;
     justify-content: center;
     p{
-        font-size: 17px;
-        color: var(--footer-text-color)
+        font-size: 10px;
+        color: var(--footer-text-color);
+        max-width: 500px;
     }
+}
+
+@media (width >= 800px){
+    .container{
+        p{
+                    font-size:17px;
+                    color: var(--footer-text-color);
+                    max-width: 1000px;
+            }
+        }
 }

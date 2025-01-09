@@ -20,6 +20,9 @@
     a:hover {
       transform: scale(1.05);
     }
+    h1{
+      font-size: 40px;
+    }
   }
 
   
@@ -31,13 +34,16 @@
   }
 
   h3 {
-    margin: 15px 0 5px; /* Spacing between image and title */
-    font-size: 20px; /* Adjust font size */
-    max-width: 25ch; /* Limit the character width for titles */
+    margin: 13px 0 5px;
+    font-size: 18px; 
+    max-width: 25ch;
+    margin-bottom: 10px; 
   }
 
   p{
-    max-width: 25ch
+    max-width: 25ch;
+    font-size: 15px;
+    margin: auto;
   }
   @media (width >= 800px) {
     .ProjectsContainer {
