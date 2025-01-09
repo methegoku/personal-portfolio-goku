@@ -19,6 +19,11 @@
         font-size: 30px;
     }
 
+    h2{
+        font-size: 15px;
+        margin-top: 5px;;
+    }
+
     span{
         display: flex;
         gap: 40px;
@@ -69,7 +74,7 @@
 .colorMode{
     position: absolute;
     right: 0;
-    width: 25px;
+    width: 30px;
 }
 
 .colorMode:hover{
