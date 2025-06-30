@@ -31,7 +31,7 @@ function Hero() {
 
         <div className = {styles.info}>
             <h1>Gokul Elumalai</h1>
-            <h2>FrontEnd Developer | Programmer</h2> 
+            <h2>Full Stack Developer | Programmer | Front end Developer</h2> 
             <span>
                 <a href = "https://www.instagram.com/creatureofcomfort._._/" target = "_blank">
                     <img src = {twitterIcon} alt = "Twitter Icon"></img>
@@ -46,7 +46,8 @@ function Hero() {
                 </a> 
             </span>
 
-            <p className={styles.description}>A passionate front-end developer with a knack for creating responsive, user-friendly, and visually appealing web pages. Dedicated to continuous learning and improving skills to stay updated with the latest trends and technologies in web development.</p>
+            <p className={styles.description}>Enthusiastic and self-driven Developer with hands-on experience in full-stack web development and backend API integration. Skilled in
+Java, ReactJS, Spring Boot, and Firebase, with a strong understanding of databases and real-time applications.</p>
 
             <a href = {CV}>
             <button className = "hover" download>Resume</button>

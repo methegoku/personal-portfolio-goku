@@ -15,6 +15,10 @@
       text-decoration: none;
       color: #222;
       transition: transform 200ms ease-in-out;
+      background-color: #88888860;
+      padding: 20px;
+      border-radius: 10px;
+
     }
   
     a:hover {
@@ -28,9 +32,11 @@
   
   .ProjectsContainer {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 60px;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    width: 100%;
+    max-width: 1200px;
   }
 
   h3 {
